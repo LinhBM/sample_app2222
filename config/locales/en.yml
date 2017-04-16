@@ -80,10 +80,9 @@ en:
       rubyonrails: "to teach web development with %{tut}. This is the sample application for the tutorial."
       rubyonrailstut: "Ruby on Rails Tutorial"
     
-    #Contact.html.erb
+    #Contact
     contact:
       title: "Contact"
 
       railstutorialcontact: "Contact the Ruby on Rails Tutorial about the sample app at the %{tut}."
       railstutorialcontacttut: "contact page"
-
