@@ -39,7 +39,7 @@
 # To learn more, please read the Rails Internationalization guide
 # available at http://guides.rubyonrails.org/i18n.html.
 
-en:      
+vn:      
   layouts:
     application:      
       english: "English"
@@ -49,41 +49,41 @@ en:
   static_pages: 
     #Home
     home:
-      title: "Sampe App"
+      title: "Ung dung tham khao"
       
-      railstutorial: "This is the home page for the %{tut} sample application."
-      railstutorialtut: "Ruby on Rails Tutorial"
+      railstutorial: "Day la huong dan su dung %{tut} cho mot vai vi du."
+      railstutorialtut: "ruby o tren rails"
 
     #Help
     help:
-      title: "Help"
+      title: "Tro giup"
 
-      railstutorialhelp: "Get help %{tut} on the Ruby on Rails Tutorial at the" 
-      railstutorialhelptut: "Rails Tutorial help section"
+      railstutorialhelp: "Su tro giup %{tut} huong dan tren ruby" 
+      railstutorialhelptut: "cua rails trong nay"
 
-      railstutorialbook: "To get help on this sample app, see the %{tut}"
-      railstutorialbooktut: "Ruby on Rails Tutorial book"
+      railstutorialbook: "De hieu ve su tro giup cua ung dung nay, xem %{tut}"
+      railstutorialbooktut: "ngon ngu ruby qua sach"
 
     #About
     about:
-      title: "About"
+      title: "Gioi thieu"
 
-      railstutorial: "The %{tut}"
-      railstutorialtut: "Ruby on Rails Tutorial"          
+      railstutorial: "%{tut}"
+      railstutorialtut: "Ngon ngu ruby"          
       
-      railstutorialbook: "is a %{tut}."
-      railstutorialbooktut: "book"
+      railstutorialbook: "la 1 %{tut}."
+      railstutorialbooktut: "quyen sach"
 
-      screenrailstutorial: "And %{tut}"
-      screenrailstutorialtut: "screen"
+      screenrailstutorial: "Va %{tut}"
+      screenrailstutorialtut: "anh"
 
-      rubyonrails: "to teach web development with %{tut}. This is the sample application for the tutorial."
-      rubyonrailstut: "Ruby on Rails Tutorial"
+      rubyonrails: "De day thiet ke web voi %{tut}. Day la huong dan chay ung dung don gian."
+      rubyonrailstut: "Ngon ngu ruby"
     
     #Contact.html.erb
     contact:
-      title: "Contact"
+      title: "Lien hệ"
 
-      railstutorialcontact: "Contact the Ruby on Rails Tutorial about the sample app at the %{tut}."
-      railstutorialcontacttut: "contact page"
+      railstutorialcontact: "Den voi ruby on rails de hieu hon ve %{tut}."
+      railstutorialcontacttut: "cach lam viec"
 
